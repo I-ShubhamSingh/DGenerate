@@ -1,6 +1,6 @@
 # DGenerate CLI 
 ###### Version v1.0.0
-Generates datasource configuration files for springboot applications
+Generates datasource configuration files for Spring Boot applications
 
 - Has Spring Data JPA Support for now
 - Has RDBMS support
@@ -22,7 +22,7 @@ To be able to use this application, you need to provide below informations:
 
 > **Step 1** Download jar from [here](https://github.com/I-ShubhamSingh/DGenerate/raw/dgenerate-cli/DGenerate.jar)
 
-> **Step 2** Run the jar in your local using command **java -jar jar-name**
+> **Step 2** Run the jar in your local using command **java -jar DGenerate.jar**
 
 > **Step 3** Fill the details mentioned in **Usage Section**
 
