@@ -63,7 +63,7 @@ public class Application {
 				System.out.println("Fill details to configure multiple " + datasourceName + " datasource\n");
 			
 			list.stream().forEach(dataSourceObj -> {
-				++count[0];
+				int filenumber = ++count[0];
 				if (count[0] == 1)
 					System.out.println("Enter base package of your 1st " + dataSourceObj.getName()
 							+ " repository [ e.g org.domain.abc.repository ]");
@@ -115,7 +115,7 @@ public class Application {
 
 				Thread thread = new Thread(() -> {
 					try {
-						generateDatasourceConfigTemplate(dataSourceObj, destination, count[0]);
+						generateDatasourceConfigTemplate(dataSourceObj, destination, filenumber);
 					} catch (IOException e) {
 						e.printStackTrace();
 					}
