@@ -44,7 +44,7 @@ To be able to use this application, you need to provide below informations:
 
 > **email: ** Shubham0Singh2@gmail.com
 
-> **linkedin: ** https://www/linkedin.com/in/shubhamsingh25
+> **linkedin: ** https://www.linkedin.com/in/shubhamsingh25
 
 
 
