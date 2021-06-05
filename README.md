@@ -20,7 +20,7 @@ To be able to use this application, you need to provide below informations:
 
 ### Instruction:
 
-> **Step 1** Download jar from {} 
+> **Step 1** Download jar from [here](https://github.com/I-ShubhamSingh/DGenerate/raw/dgenerate-cli/DGenerate.jar)
 
 > **Step 2** Run the jar in your local using command **java -jar jar-name**
 
@@ -32,7 +32,7 @@ To be able to use this application, you need to provide below informations:
 
 **NOTE:** Before following the instructions make sure you have added the **spring-boot-starter-data-jpa** dependency in you pom or build file.
 
-###Future Updates:
+#### Future Updates:
 
 - Spring JDBC Template Config file Support
 - API Support
@@ -40,7 +40,7 @@ To be able to use this application, you need to provide below informations:
 - JNDI Support
 
 
-####Contact:
+###### Contact:
 
 > **email: ** Shubham0Singh2@gmail.com
 
